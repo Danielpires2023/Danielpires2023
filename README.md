@@ -1,4 +1,4 @@
-###  Bem vindo a orepositório do Daniel!
+###  Bem vindo ao repositório do Daniel!
 
 
 
